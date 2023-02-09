@@ -1,0 +1,22 @@
+{
+  "name": "task-08",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "express-validator": "^6.12.1",
+    "hbs": "^4.0.1",
+    "moment": "^2.29.1",
+    "mongodb": "^3.1.10",
+    "mysql": "^2.18.1",
+    "uniqid": "^5.4.0"
+  },
+  "description": ""
+}
